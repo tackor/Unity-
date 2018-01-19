@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{617C94E6-AB64-2163-E121-9F0402334793}|">
+  <MonoDevelop.Ide.ItemProperties.JumpDemo PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InGameCtrl.cs">
+    <Files>
+      <File FileName="Assets/CameraCtrl.cs" Line="12" Column="6" />
+      <File FileName="Assets/InGameCtrl.cs" Line="117" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
